@@ -21,10 +21,10 @@
 		<developer/>
 	</developers>
 	<scm>
-		<connection/>
-		<developerConnection/>
+		<connection>scm:git:https://github.com/murat-gonultas/demo</connection>
+		<developerConnection>scm:git:https://github.com/murat-gonultas/demo</developerConnection>
 		<tag/>
-		<url/>
+		<url>https://github.com/murat-gonultas/demo</url>
 	</scm>
 	<properties>
 		<java.version>21</java.version>
