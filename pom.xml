@@ -25,6 +25,13 @@
 		<tag>yes</tag>
 		<url>https://github.com/murat-gonultas/demo</url>
 	</scm>
+	<distributionManagement>
+		<repository>
+			<id>internal-repo</id>
+			<name>Internal Release Repository</name>
+			<url>https://github.com/murat-gonultas/demo</url>
+		</repository>
+	</distributionManagement>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
